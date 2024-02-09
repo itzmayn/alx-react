@@ -1,0 +1,8 @@
+.App {
+  border-bottom: 4px solid var(--principal-color);
+}
+
+.App-body {
+    display: flex;
+    justify-content: center;
+  }
